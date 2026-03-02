@@ -2,24 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://predict.pics/</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://predict.pics/privacy.html</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
-  <url><loc>https://predict.pics/blog/nft-art-predictions-market-analysis.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.pics/blog/viral-trends-predictions-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.pics/blog/photography-industry-trends-predictions-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.pics/blog/viral-trends-prediction-markets-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.pics/blog/oscar-predictions-2026-prediction-markets.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.pics/blog/ai-image-generation-predictions-2026-2030.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.pics/blog/smartphone-camera-predictions-next.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.pics/blog/stock-photography-industry-predictions.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.pics/blog/future-photography-ai-predictions-2026.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.pics/blog/computational-photography-predictions.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://predict.pics/blog-ai-image-generators-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.pics/blog-ai-prediction-markets.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.pics/blog-ai-predictions-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.pics/blog-best-photo-editing-apps-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.pics/blog-photography-tips-beginners-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.pics/blog-predictions-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
